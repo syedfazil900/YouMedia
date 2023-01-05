@@ -5,4 +5,4 @@ Users can search for videos using keywords, categories, and other filters. The a
 
 Overall, YouMedia is a user-friendly and feature-rich application that provides an enjoyable video viewing experience.
 
-You can check out the application at youmedia.vercel.app
+You can check out the application at https://youmedia.vercel.app/
